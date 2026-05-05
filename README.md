@@ -1,4 +1,5 @@
-# Physics-II-W-calculus - Spring Semester
+# Physics-II-W-calculus - Spring Semester PHY2049
+## slides, tests, popquizzes, assignments.  Find the lectures here:
 # https://www.youtube.com/watch?v=SdzIMvP1ALY&list=PLYDSr0LB8IckaIwjLJjlz2vWsx8ufTO6w
 ## Unit1:  Intro to the class, Electrostatics, 
 ## Unit2: Electric potential, voltage, potential energy, 
